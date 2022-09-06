@@ -1,5 +1,5 @@
 # TalesGarden-pattern-repository-documentation
-#Edited by : Leticia Coelho - engenheiracoelho
+# Edited by : Leticia Coelho - engenheiracoelho
 
 # < projectName >
 <fig>
